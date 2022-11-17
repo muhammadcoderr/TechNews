@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;  
+}
+.box1{
+    width: 50%;
+    margin-top: 60px;
+    float: left;
+    margin-bottom: 60px;
+}
+a{
+    text-decoration: none;
+}
+.box2{
+    float: left;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.box2 iframe{
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px #ff7200;
+}
+.hacker__title{
+    margin-top: 40px;
+    text-align:center;
+    font-size: 30px;
+    color: #201e1c;
+}
+.hacker__text{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.hacker__btn{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    box-shadow: 0px 0px 5px #ff7200;
+    margin-left: 350px;
+    font-size: 25px;
+    border-radius: 8px;
+    color: #ff7200;
+    margin-top: 20px;
+
+}
